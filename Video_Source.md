@@ -21,8 +21,9 @@ https://www.foodieguide.com/iptvsearch/
 
 https://apps.apple.com/cn/app/id1613758141
 
-### 5、自用直播源
+### 5、其他直播源
 18+（8145个频道）
+
 ```
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
 ```
@@ -39,19 +40,11 @@ https://github.com/ddgksf2013/M3U8LIST/raw/master/IPTV2022.m3u
 https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/bestv.m3u
 ```
 
-佩奇影视地址：
-
-苹果端地址：https://apps.apple.com/cn/app/id1620573804
-
-安卓下载地址：https://yhtv.lanzouf.com/peiqi666
-
-网页端：https://peiqi.tv
 
 
-###网页观影地址
+### 6.网页观影地址
+
 电影狗搜索：https://www.dianyinggou.com
-
-剧嗨：https://www.juhi.cc
 
 努努影院：https://www.nnyy6.top
 

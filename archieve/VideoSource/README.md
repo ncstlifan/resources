@@ -1,8 +1,17 @@
 # IPTV m3u 直播源 收集 & 汇总
 
-## 简介
+## 
 ---
+👉 点击查看[简洁版](./Video_Source.md)
+
+联系我👉 [发邮箱](mailto:"erzhonglifan@gmail.com")  [我的电报](t.me/ncstlifan)  [我的Github：ncstlifan](https://github.com/ncstlifan/)
+
+---
+
+## 简介
+
 ### 主要功能
+
 收集网络上现有的一些网友共享的直播源, 将其汇总后.
 
 对每个连接进行测试, 同时记录当前网络对该连接的延迟, 同时对其标题进行一定的格式化.
@@ -15,12 +24,9 @@
 
 已放出优质频道总是: 563
 
+---
 
 ## 项目使用方法
----
-👉点击查看[简洁版](./Video_Source.md)
-
----
 
 本项目基于 **python3.7** 进行开发
 
@@ -39,8 +45,10 @@ docker pull python:3.7
 docker run -it --name python3 -v {脚本所在滤镜}:{容器里随便你想要的路径} python:3.7
 ```
 
-## 其他
 ---
+
+## 其他
+
 ### 相关项目
 「[iptv-m3u-player](https://github.com/EvilCult/iptv-m3u-player)」 - 基于本项目的衍生项目, 基于Electron+React编写的一个轻量级桌面客户端.频道数据会随本项目更新.
 Mac上不知道用什么客户端的,可以试试.

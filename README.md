@@ -12,15 +12,19 @@
 
 1. 联系我👉 
 
-   [发邮箱](mailto:"erzhonglifan@gmail.com") , [我的电报](t.me/ncstlifan) ,[我的Github：ncstlifan](https://github.com/ncstlifan/)
+   [发邮箱](mailto:"erzhonglifan@gmail.com") , [我的电报](t.me/ncstlifan)
 
-   我的Github仓库 [部分公开和部分私有隐藏仓库](https://weibo.com/6623435006/4860676265214867)
+   我的Github仓库列表
+
+   [部分公开和部分私有隐藏仓库](https://weibo.com/6623435006/4860676265214867)
+
+1. [我的Git教程](./archieve/Git教程by李凡.md)
 
 2. [icon图标](./archieve/icon)
 
-3. [字体列表](./archieve/fonts)
+3. [我的字体列表](./archieve/fonts)
 
-4. [视频播放源](./archieve/VideoSource/README.md)
+4. [我的视频播放源](./archieve/VideoSource/README.md)
 
 5. [Cron 定时设置](./archieve/Cron_Set_Time.md)
 

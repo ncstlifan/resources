@@ -63,3 +63,8 @@ https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/bestv.m3u
 泥巴影院：https://bit.ly/3yCVo8Z 
 
 爱看影院：https://www.ikyy.cc/
+
+爱美剧网：http://www.2mjw.com/
+
+萝卜影视：https://ys.lbbb.cc/
+
